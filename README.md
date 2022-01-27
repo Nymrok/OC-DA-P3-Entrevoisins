@@ -8,9 +8,9 @@
 
 ## Installation
 - Pour utiliser cette application, téléchargez le logiciel [GitHub Desktop](https://desktop.github.com/),
-- Cliquez ensuite [ici](x-github-client://openRepo/https://github.com/Nymrok/OC-DA-P3-Entrevoisins) pour télécharger le code de l'application,
+- Cliquez ensuite sur "Code > Open with GitHub Desktop" depuis la page Github du projet pour télécharger le code,
 - Installez ensuite l'EDI [Android Studio](https://developer.android.com/studio) et ouvrez le projet avec,
-- Dans Android Studio, vous trouverez **AVD Manager**, qui permet de créer un périphérique virtuel d'émulation,
+- Dans Android Studio, vous trouverez `AVD Manager`, qui permet de créer un périphérique virtuel d'émulation,
 - Une fois votre périphérique créé, vous pouvez lancer l'application dedans.
 
 ## Utilisation
