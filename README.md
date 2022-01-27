@@ -44,6 +44,10 @@ Pour fonctionner correctement, cette application utilise les librairies suivante
 
 **RAPPEL :** Une partie importante du code de l'application existait déjà au début du projet.
  
-![Preview1](https://i.imgur.com/onwKwY0.jpg)
-![Preview2](https://i.imgur.com/ydVHViR.jpg)
-![Preview3](https://i.imgur.com/slCAv9A.jpg)
+ ## Diapositive utilisée lors de la soutenance
+
+![Preview1](https://i.imgur.com/PosQvBz.jpg)
+![Preview2](https://i.imgur.com/3eYyNXi.jpg)
+![Preview3](https://i.imgur.com/2kzeI95.jpg)
+![Preview4](https://i.imgur.com/eixHQUn.jpg)
+![Preview5](https://i.imgur.com/gOHfNCj.jpg)
