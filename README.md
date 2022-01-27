@@ -39,7 +39,7 @@ Pour fonctionner correctement, cette application utilise les librairies suivante
 - [Glide](https://github.com/bumptech/glide) - Pour manipuler des images plus rapidement et facilement.
 - [Butterknife](https://github.com/JakeWharton/butterknife) - Pour utiliser des éléments de layout avec moins de contraintes.
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/distributables) - Pour faciliter l'utilisation d'intents dans les tests.
-- [Mockito](https://mvnrepository.com/artifact/org.mockito/mockito-core/) - Pour simplifier les tests en retournant directement le résultat d'une fonction plutôt que d'appeler cette dernière.
+- [Mockito](https://mvnrepository.com/artifact/org.mockito/mockito-core/) - Pour simplifier les tests en retournant le résultat d'une fonction plutôt que d'appeler cette dernière.
 - [Espresso](https://developer.android.com/training/testing/espresso/setup) - Pour les tests, tout simplement.
 
 **RAPPEL :** Une partie importante du code de l'application existait déjà au début du projet.
