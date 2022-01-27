@@ -44,7 +44,7 @@ Pour fonctionner correctement, cette application utilise les librairies suivante
 
 **RAPPEL :** Une partie importante du code de l'application existait déjà au début du projet.
  
- ## Diapositive utilisée lors de la soutenance
+ ## Diapositives utilisées lors de la soutenance
 
 ![Preview1](https://i.imgur.com/PosQvBz.jpg)
 ![Preview2](https://i.imgur.com/3eYyNXi.jpg)
