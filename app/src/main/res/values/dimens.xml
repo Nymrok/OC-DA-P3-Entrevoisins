@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="profile_page_banner_title">34sp</dimen>
+    <dimen name="profile_page_titles">24sp</dimen>
+    <dimen name="profile_page_titles_vertical_padding">8dp</dimen>
+    <dimen name="profile_page_links_padding">16dp</dimen>
+    <dimen name="profile_page_description_content_vertical_padding">8dp</dimen>
+</resources>
